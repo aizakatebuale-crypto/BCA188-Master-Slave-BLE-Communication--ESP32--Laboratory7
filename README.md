@@ -13,3 +13,6 @@
 | **Cydee Enad** | **Slave 2 (ESP32 Node)** | Configured and wired the `SLAVE2` board hardware interface, assisted with MAC address extraction, and performed multi-device synchronization testing. |
 
 ---
+
+## Demonstration Video
+Link: https://drive.google.com/file/d/1cM_43lCa7gBdDJVt3O0UdGaIrZ9wG2tj/view?usp=sharing
